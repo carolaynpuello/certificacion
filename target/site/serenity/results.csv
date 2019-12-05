@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"FUNCIONALIDAD - Envio de correo electr�nico en la p�gina de gmail.","PRUEBA A REALIZAR - Enviar Correo Electr�nico desde la p�gina de Gmail.","SUCCESS","2018-10-19T15:28:48.611-05:00[America/Bogota]","0.0","37.61"
+"register for a job on the website","Register for a job Successfully","PENDING","2019-12-05T09:22:42.395-05:00[America/Bogota]","0.0","0.83"
+"register for a job on the website","Send empty registration form","PENDING","2019-12-05T09:22:43.287-05:00[America/Bogota]","0.0","0.01"
+"Validation of the job search filter on the Choucair website","enter valid data in the search filter","SUCCESS","2019-12-05T10:55:18.632-05:00[America/Bogota]","0.0","60.65"
+"Validation of the job search filter on the Choucair website","enter invalid data in the search filter","ERROR","2019-12-05T10:56:21.881-05:00[America/Bogota]","0.0","74.97"
+"validation of the jobs module menu on the Choucair website","Browse the jobs menu","PENDING","2019-12-05T09:22:45.559-05:00[America/Bogota]","0.0","0.03"

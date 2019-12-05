@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FUNCIONALIDAD - Envio de correo electr�nico en la p�gina de gmail." tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-19T20:28:49" hostname="CPX-IIE1IB0DOGJ" time="37.373">
+  <properties/>
+  <testcase name="PRUEBA A REALIZAR - Enviar Correo Electr�nico desde la p�gina de Gmail." classname="FUNCIONALIDAD - Envio de correo electr�nico en la p�gina de gmail." time="37.373"/>
+  <system-out><![CDATA[true
+Entro aqui
+true
+]]></system-out>
+  <system-err><![CDATA[Oct 19, 2018 3:28:49 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5) on port 37198
+Only local connections are allowed.
+Oct 19, 2018 3:28:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: PRUEBA A REALIZAR - Enviar Correo Electr?nico desde la p?gina de Gmail.
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
